@@ -1,0 +1,7 @@
+org\itis\gr404\mvc\controller\CarListController.class
+org\itis\gr404\mvc\model\Car.class
+org\itis\gr404\mvc\validator\CarValidator.class
+org\itis\gr404\mvc\service\BrandManager.class
+org\itis\gr404\mvc\model\Brand.class
+org\itis\gr404\mvc\controller\CarNewValidateController.class
+org\itis\gr404\mvc\service\CarManager.class

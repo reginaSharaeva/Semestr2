@@ -1,0 +1,2 @@
+user=Regina
+pswd=12345
